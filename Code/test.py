@@ -4,7 +4,7 @@ import speech_recognition as sr
 import time
 import pygame
 
-GeminiApiKey = "AIzaSyBo9CgVZUD4_NXmL59LBS3PgUoQcaftXpY" # The key is generated here https://aistudio.google.com/apikey
+GeminiApiKey = "You_Gemini_Api_Key" # The key is generated here https://aistudio.google.com/apikey
 
 filePathMP3 = "temp.mp3"
 
