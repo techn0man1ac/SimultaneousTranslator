@@ -4,6 +4,6 @@ This project is a simultaneous interpreter that translates from Ukrainian into o
 - Polish;
 - French.
 
-First, you need to install the necessary packages, then get the API key here https://aistudio.google.com/apikey and paste it into the code.
+First, you need to install the necessary packages - OpenAI, gTTS, SpeechRecognition, PyAudio. Then get the API key here https://aistudio.google.com/apikey and paste it into the code.
 
-Programming language - Python
+Programming language - Python.
