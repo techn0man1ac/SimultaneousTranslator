@@ -1,0 +1,4 @@
+OpenAI=1.33.0
+gTTS==2.5.1
+SpeechRecognition==3.10.4
+PyAudio==0.2.14
